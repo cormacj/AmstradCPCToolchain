@@ -10,7 +10,7 @@ DOWNLOADS = ./downloads
 PWD = $(shell pwd)
 
 # VASM related variables
-VASM_URL = http://sun.hasenbraten.de/vasm/release/vasm.tar.gz
+VASM_URL = http://sun.hasenbraten.de/vasm/daily/vasm.tar.gz
 
 # VLINK related variables
 # currently daily is used, add --continue to wget command if using release version
